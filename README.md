@@ -13,6 +13,16 @@ More about me and my work: [lorenzgaertner.com][website]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-08172E?style=for-the-badge&logo=linkedin&logoColor=E77728)][linkedin]
 [![Twitter](https://img.shields.io/badge/Twitter-08172E?style=for-the-badge&logo=x&logoColor=E77728)][twitter]
 
+### Latest news
+
+<!-- NEWS:START -->
+- August 2026 — Excited to have spoken at <a href="https://indico.cern.ch/event/1522800/contributions/6982707/">ICHEP 2026</a>.
+- June 2026 — <a href="https://github.com/lorenzennio/knunu-bkx-reinterpretation">Try your own reinterpretation</a> of the `B^+\to K^+X` dark-sector search &mdash; a minimal starting point for fitting the model at two fixed widths.
+- May 2026 — <a href="https://github.com/lorenzennio/knunu-reinterpretation-mini">Try your own reinterpretation</a> of the Belle II `B^+\to K^+\nu\bar\nu` measurement &mdash; a minimal worked example, from loading the public likelihood to a full WET fit.
+<!-- NEWS:END -->
+
+_Synced automatically from [lorenzgaertner.com][website]._
+
 [arxiv]: https://arxiv.org/abs/2606.22215
 [iaea]: https://www.iaea.org/
 [website]: https://lorenzgaertner.com
