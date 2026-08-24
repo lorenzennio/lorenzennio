@@ -21,8 +21,6 @@ More about me and my work: [lorenzgaertner.com][website]
 - May 2026 — <a href="https://github.com/lorenzennio/knunu-reinterpretation-mini">Try your own reinterpretation</a> of the Belle II `B^+\to K^+\nu\bar\nu` measurement &mdash; a minimal worked example, from loading the public likelihood to a full WET fit.
 <!-- NEWS:END -->
 
-_Synced automatically from [lorenzgaertner.com][website]._
-
 [arxiv]: https://arxiv.org/abs/2606.22215
 [iaea]: https://www.iaea.org/
 [website]: https://lorenzgaertner.com
