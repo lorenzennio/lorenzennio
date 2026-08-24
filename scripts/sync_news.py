@@ -20,9 +20,9 @@ MONTHS = [
     "July", "August", "September", "October", "November", "December",
 ]
 
-# Matches inline LaTeX math like \(B^+\to K^+X\) so it can be shown as
-# plain-ish inline code instead of raw, unrendered backslashes -- GitHub's
-# README renderer has no MathJax/KaTeX support.
+# Matches inline LaTeX math like \(B^+\to K^+X\) -- the site's Jekyll/MathJax
+# delimiter. GitHub's own README renderer supports LaTeX too, but only with
+# $...$ delimiters, so rewrite to that instead of leaving raw backslashes.
 MATH_RE = re.compile(r"\\\((.+?)\\\)")
 
 
@@ -34,7 +34,7 @@ def fetch_news():
 
 
 def clean_text(text):
-    return MATH_RE.sub(lambda m: f"`{m.group(1)}`", text)
+    return MATH_RE.sub(lambda m: f"${m.group(1)}$", text)
 
 
 def format_item(item):
