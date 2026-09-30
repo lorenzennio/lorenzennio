@@ -16,9 +16,9 @@ More about me and my work: [lorenzgaertner.com][website]
 ### Latest news
 
 <!-- NEWS:START -->
+- September 2026 — Presented a <a href="/assets/pdfs/mlss2026-poster.pdf">poster</a> on particle physics and reinterpretation with model-agnostic likelihoods at MLSS, Tübingen.
 - August 2026 — Will be at <a href="https://mlss2026.is.tuebingen.mpg.de/">MLSS</a> in Tübingen! Come and say hi!
 - August 2026 — Excited to have spoken at <a href="https://indico.cern.ch/event/1522800/contributions/6982707/">ICHEP 2026</a>.
-- June 2026 — <a href="https://github.com/lorenzennio/knunu-bkx-reinterpretation">Try your own reinterpretation</a> of the $B^+\to K^+X$ dark-sector search &mdash; a minimal starting point for fitting the model at two fixed widths.
 <!-- NEWS:END -->
 
 [arxiv]: https://arxiv.org/abs/2606.22215
