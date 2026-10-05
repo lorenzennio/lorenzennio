@@ -16,9 +16,9 @@ More about me and my work: [lorenzgaertner.com][website]
 ### Latest news
 
 <!-- NEWS:START -->
+- October 2026 — New paper published: "EOS version 1.1: A Software for Flavor Physics Phenomenology" (EOS Authors), <a href="https://arxiv.org/abs/2610.03322">arXiv:2610.03322</a>.
+- September 2026 — New proceedings published: "Measurements of electroweak penguin $B$ decays with missing energy at Belle and Belle II", my <a href="https://indico.cern.ch/event/1522800/contributions/6982707/">ICHEP 2026</a> proceedings for the Belle II Collaboration, <a href="https://arxiv.org/abs/2609.37146">arXiv:2609.37146</a>.
 - September 2026 — Presented a <a href="/assets/pdfs/mlss2026-poster.pdf">poster</a> on particle physics and reinterpretation with model-agnostic likelihoods at MLSS, Tübingen.
-- August 2026 — Will be at <a href="https://mlss2026.is.tuebingen.mpg.de/">MLSS</a> in Tübingen! Come and say hi!
-- August 2026 — Excited to have spoken at <a href="https://indico.cern.ch/event/1522800/contributions/6982707/">ICHEP 2026</a>.
 <!-- NEWS:END -->
 
 [arxiv]: https://arxiv.org/abs/2606.22215
